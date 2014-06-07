@@ -6,6 +6,6 @@
 The file which is not updated more than half a year is changed into 'orange'.   
 The file which is not updated more than one year is changed into 'red'.
 
-![http://i.gyazo.com/41b41587ccde87bdd9e6faecaae17ee8.png](http://i.gyazo.com/41b41587ccde87bdd9e6faecaae17ee8.png)
+![https://dl.dropboxusercontent.com/u/5390179/15dc8419d7b311eda3526776cd083c5a.png](https://dl.dropboxusercontent.com/u/5390179/15dc8419d7b311eda3526776cd083c5a.png)
 
 Special Thanks @dameleon.
