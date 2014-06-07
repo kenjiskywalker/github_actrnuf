@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "GitHub Add color to recently not updated file",
-  "version": "0.1",
+  "version": "0.2",
   "description": "Add color to recently not updated file on GitHub.",
   "content_scripts": [
     {
