@@ -8,7 +8,11 @@
       "matches": ["http://*.github.com/*", "https://*.github.com/*"],
       "js": ["jquery-1.11.1.js", "content.js"]
     }
-  ]
+  ],
+  "icons": { "16": "icon16.png",
+             "48": "icon48.png",
+            "128": "icon128.png"
+  }
 }
 
 
