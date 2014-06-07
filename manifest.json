@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "GitHub color",
+  "version": "0.1",
+  "description": "hogeee",
+  "content_scripts": [
+    {
+      "matches": ["http://*.github.com/*", "https://*.github.com/*"],
+      "js": ["jquery-1.11.1.js", "content.js"]
+    }
+  ]
+}
+
+
