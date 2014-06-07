@@ -48,7 +48,8 @@ $('.files .age').each(function(_, value) {
     // [4, 5]
     var $value = $(value);
     var ageText = $value.text().trim();
-    var color = null;
+    // デフォルト値突っ込んどく
+    var color = DEFAULT_COLOR;
 
     ASSIGN_MAP.some(function(assign) {
         if (assign.re.test(ageText)) {
@@ -56,10 +57,6 @@ $('.files .age').each(function(_, value) {
             return true;
         }
     });
-    // color が設定されてない場合はデフォルト
-    if (!color) {
-        color = DEFAULT_COLOR;
-    }
     // [8]
     $value.css('color', color);
 });
