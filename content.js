@@ -9,7 +9,7 @@ var ASSIGN_MAP = [
     },
     {
         // [7]
-        re: /([5-9]|1(0|1))\smonth\sago/,
+        re: /([5-9]|1(0|1))\smonths\sago/,
         color: 'orange'
     }
 ];
