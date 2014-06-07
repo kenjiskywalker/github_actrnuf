@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "GitHub color",
+  "name": "GitHub Add color to recently not updated file",
   "version": "0.1",
-  "description": "hogeee",
+  "description": "Add color to recently not updated file on GitHub.",
   "content_scripts": [
     {
       "matches": ["http://*.github.com/*", "https://*.github.com/*"],
