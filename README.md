@@ -15,4 +15,6 @@ Smeone may be looking at __Orange__
 Nobody may be looking at __Red__
 ![https://dl.dropboxusercontent.com/u/5390179/5e591a94e51b3b6039df71096a25ee45.png](https://dl.dropboxusercontent.com/u/5390179/5e591a94e51b3b6039df71096a25ee45.png)
 
-Special Thanks @dameleon.
+--
+Special Thanks @dameleon.  
+This product's code written by him.
