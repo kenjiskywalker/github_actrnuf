@@ -3,7 +3,7 @@
 
 [Google Web Store](https://chrome.google.com/webstore/detail/gnlanakllhhldoneeennbednopiaadld)
 
-The file which is not updated more than half a year is changed into 'orange'.
+The file which is not updated more than half a year is changed into 'orange'.  
 The file which is not updated more than one year is changed into 'red'.
 
 ![https://dl.dropboxusercontent.com/u/5390179/15dc8419d7b311eda3526776cd083c5a.png](https://dl.dropboxusercontent.com/u/5390179/15dc8419d7b311eda3526776cd083c5a.png)
@@ -15,4 +15,5 @@ Someone may be looking at __Orange__
 Nobody may be looking at __Red__
 ![https://dl.dropboxusercontent.com/u/5390179/5e591a94e51b3b6039df71096a25ee45.png](https://dl.dropboxusercontent.com/u/5390179/5e591a94e51b3b6039df71096a25ee45.png)
 
+This product's code written by him.  
 Special Thanks @dameleon.
